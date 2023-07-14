@@ -2,8 +2,10 @@
 
 /**
  * main - entery point
- * Description: A c program
- * return 0 (sessuce)
+ *
+ * Description: A c program that print with puts function
+ *
+ * Return: alwys 0 (sessuce)
 */
 
 int main(void)
