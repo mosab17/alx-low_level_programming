@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-/*
- * main - entery point
+/**
+ * main - entry point
  *
- * Description: using sizeof to print the various type
+ * Description: using sizeof to print size of various type
  *
- * Return: 0 (sucsse)
+ * Return: always 0 (secssuse)
 */
 
 int main(void)
