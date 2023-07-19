@@ -45,7 +45,7 @@ int main(void)
 		{
 			printf("%d", 0);
 			initial0s--;
-		}
+		
 
 		printf("%lu", f1);
 
@@ -54,7 +54,7 @@ int main(void)
 		f1 = f2;
 		f1o = f2o;
 		f2 = sumo;
-
+		}
 		if (count != 98)
 			printf(", ");
 		else
