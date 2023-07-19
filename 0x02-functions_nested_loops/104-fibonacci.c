@@ -45,7 +45,7 @@ int main(void)
 		{
 			printf("%d", 0);
 			initial0s--;
-		
+
 
 		printf("%lu", f1);
 
