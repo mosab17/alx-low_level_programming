@@ -3,7 +3,7 @@
 /**
  * _is lower - function to chack if char is lowercase
  *
- * @c: chack input of function 
+ * @c: chack input of function
  *
  * Return: return 1 if 'c' is lowercase otherwise always 0 (success)
  *
