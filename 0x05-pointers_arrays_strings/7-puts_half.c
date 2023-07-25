@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2 - test pointer
+ * puts_half - test pointer
  *
  * @str: first input pointer
  *
