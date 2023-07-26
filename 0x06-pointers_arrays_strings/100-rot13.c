@@ -14,7 +14,7 @@ char *cap_string(char *s)
 	int i;
 	char s1[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	char s2[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
-	ch *ptr = s;
+	char *ptr = s;
 
 	while (*s)
 	{
