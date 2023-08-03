@@ -33,5 +33,5 @@ int actual_sqrt_recursion(int n, int i)
 	else if (i * i < n)
 		return (actual_sqrt_recursion(n, i + 1));
 	else
-		return (-1);	
+		return (-1);
 }
