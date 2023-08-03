@@ -1,1 +1,1 @@
-function loops
+pointer and array
